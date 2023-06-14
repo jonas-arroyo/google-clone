@@ -1,5 +1,5 @@
 # google-clone
-This is Project 0 for Harvard's CS50's Web Programming with Python and JavaScript. I designed a front-end for Google Search, Google Image Search, and Google Advanced Search.
+This is Project 0 for Harvard's CS50 Web Programming with Python and JavaScript. I designed a front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 This projects has met the following requirements:
 <ul>
